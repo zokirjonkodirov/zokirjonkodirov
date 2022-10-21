@@ -1,5 +1,5 @@
 <h1 align="center">Assalomu alaykum 👋, I'm Zokirjon</h1>
-<h3 align="center">A passionate Android developer from Uzbekista.</h3>
+<h3 align="center">A passionate Android developer from Uzbekistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zokirjonkodirov" alt="zokirjonkodirov" /></a> </p>
 
