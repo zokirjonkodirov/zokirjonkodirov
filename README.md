@@ -1,5 +1,4 @@
-<h1 align="center">Assalomu alaykum 👋, I'm Zokirjon</h1>
-<h3 align="center">A passionate Android developer from Uzbekistan</h3>
+<h3 align="center">A passionate Android developer</h3>
 
 - 🌱 Currently learning **Jetpack Compose and KMM**
 
